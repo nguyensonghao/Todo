@@ -1,0 +1,7 @@
+{
+    "STATUS": {
+        "ERROR": 400,
+        "SUCCESS": 200,
+        "ACCESS_DENIED": 401
+    }
+}
